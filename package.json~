@@ -1,0 +1,19 @@
+{
+  "name": "nodeapp3",
+  "version": "1.0.0",
+  "description": "Sample Express App with EJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nigeltc/nodeapp3.git"
+  },
+  "author": "Nigel Thornton Clark",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/nigeltc/nodeapp3/issues"
+  },
+  "homepage": "https://github.com/nigeltc/nodeapp3#readme"
+}
